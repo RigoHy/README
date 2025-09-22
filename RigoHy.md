@@ -1,45 +1,50 @@
 <div align="center">
-  <h1>Hi, I'm Rigoberto </h1>  <img align="center" alt="Jami-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <h1>Hi 👋, I'm Rigoberto</h1>
+  <p>💻 Backend Developer in progress | ☕ Java | 🐍 Python | 🔐 Cybersecurity Enthusiast</p>
 </div>
-<p align="justify"> ▪️ Estudiante de Ing software/Mecatronico <br> ▪️ Aprendiendo Java y Python <br> ▪️ <br> ▪️ Back-End<br> ▪️ <br>
-<p align="center"></p>
+
+---
+
+### 🚀 About Me
+- 🎓 Estudiante de Ingeniería en Software / Mecatrónica  
+- 📚 Aprendiendo **Java** y **Python**  
+- 💡 Interesado en **Back-End, Ciberseguridad y DevOps**  
+- 🌐 Construyendo **Nexaro.mx**
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-
---- 
-<div align="center"> 
- <a href="https://discord.gg/vQKMqxa52w" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
   
-##
-![]( )<br/>
-![]( https://github-readme-stats.vercel.app/api?username=RigoHy&show_icons=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RigoHy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamielly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-##
+![](https://github-readme-stats.vercel.app/api?username=RigoHy&show_icons=true&theme=dark)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=RigoHy&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RigoHy&theme=dark&hide_border=false&layout=compact)  
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ilustraitor" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
- 
-## 
 
-  <p align="center">CHACHACHAUUUUUUUUUUUUU</p>
+---
+
+### 🛠️ Skills & Tools
+<div align="center">
+<img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+<img alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img alt="Ubuntu" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+<img alt="Arduino" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+</div>
+
+---
+
+### 🌐 Contact
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vQKMqxa52w)  
+[![Email](https://img.shields.io/badge/Email-Moradev.mx@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:Moradev.mx@gmail.com)
+
 </div>
